@@ -9,7 +9,7 @@ export default function Footer() {
           <a href="#" className="text-gray-400 hover:text-green-500 transition">Terms</a>
           <a href="#" className="text-gray-400 hover:text-green-500 transition">Privacy</a>
           <a href="#" className="text-gray-400 hover:text-green-500 transition">Contact</a>
-        </div>
+        </div> 
       </div>
     </footer>
   );
